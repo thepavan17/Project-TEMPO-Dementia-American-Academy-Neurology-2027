@@ -114,12 +114,18 @@ The data used here come from the **Alzheimer's Disease Neuroimaging Initiative (
 
 Data collection and sharing for this project were funded by the Alzheimer's Disease Neuroimaging Initiative (ADNI). As such, the investigators within ADNI contributed to the design and implementation of ADNI and/or provided data but did not participate in the analysis or writing of this work. A complete listing of ADNI investigators can be found on the ADNI website.
 
+## Authors
+
+Pavan Raju Kola
+
+Pavan Kalyan Mukkamula, Final-year MBBS student, All India Institute of Medical Sciences (AIIMS), New Delhi.
+
 ## Citation
 
 If you use this code, please cite:
 
 ```
-Kola PR. TEMPO: Temporal Evaluation of Multimodal Progression Outcomes in Mild Cognitive
+Kola PR, Mukkamula PK. TEMPO: Temporal Evaluation of Multimodal Progression Outcomes in Mild Cognitive
 Impairment and Cognitively Normal Individuals. Abstract submitted to the American Academy
 of Neurology Annual Meeting, 2027.
 ```
